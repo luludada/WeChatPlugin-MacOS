@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>17C88</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>WeChatPlugin</string>
+	<key>CFBundleIdentifier</key>
+	<string>tk.WeChatPlugin</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>WeChatPlugin</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.6</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>9C40b</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>17C76</string>
+	<key>DTSDKName</key>
+	<string>macosx10.13</string>
+	<key>DTXcode</key>
+	<string>0920</string>
+	<key>DTXcodeBuild</key>
+	<string>9C40b</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2017年 tk. All rights reserved.</string>
+	<key>versionInfo</key>
+	<string>👉 v1.6 (2018-03-18)：\n新增 Alfred 快捷发消息 &amp; 打开聊天窗口\n\n之前版本更新内容:\n👉 (v1.5.1) ：\n👉🏻  新增语音远程控制 mac\n👉🏼  修复快捷回复后消息未读数未更新的问题\n👉🏽  优化防撤回提醒 (显示撤回人昵称 &amp; 消息类型) \n\n👉 (v1.5.0):\n👉🏻  新增自动登录开关 \n👉🏼  新增小助手检测更新 \n👉🏽  新增通知中心快捷回复 \n👉🏾  新增表情包复制 &amp; 存储 \n👉🏿  自动回复 &amp; 远程控制设置存储到本地 \n\n👉🏻  优化防撤回提醒。 \n👉🏼  新增自动登录开关。 \n👉🏽  新增表情复制 &amp; 存储。 \n👉🏾   新增通知中心快捷回复。\n👉🏿  自动回复 &amp; 远程控制设置存储到本地。\n\n
+</string>
+</dict>
+</plist>
