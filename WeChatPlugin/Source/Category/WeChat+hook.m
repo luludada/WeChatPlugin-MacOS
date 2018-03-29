@@ -308,7 +308,7 @@ static char tkRemoteControlWindowControllerKey;     //  远程控制窗口的关
             msgType = @"[非文本]";
         }
         
-        NSString *newMsgContent = [NSString stringWithFormat:@"TK拦截到一条撤回消息: \n%@", msgType];
+        NSString *newMsgContent = [NSString stringWithFormat:@"MY拦截到一条撤回消息: \n%@", msgType];
         //      判断是否是自己发起撤回
         if ([revokeMsgData isSendFromSelf]) {
             if (revokeMsgData.messageType == 1) {       // 判断是否为文本消息
